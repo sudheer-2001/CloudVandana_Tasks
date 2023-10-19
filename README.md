@@ -7,9 +7,11 @@ Here is the list of tasks as an assessment for the Associate Software Engineer f
   i) Create an array with the values (1, 2, 3, 4, 5, 6, 7) and shuffle it. 
   ii) Enter a Roman Number as input and convert it to an integer. (Example: IX = 9) 
   iii) Check if the input is pangram or not. (A pangram is a sentence that contains all the alphabets from A to Z.
+  
 2.In javascript as a task 2 they have given 2 Java script questions 
   i) Take a sentence as an input and reverse every word in that sentence. Example - This is a sunny day > shiT si a ynnus yad. 
   ii) Perform sorting of an array in descending order.
+  
 3.In HTML as task 3 they have given 2 tasks that includes 
   i) Create a basic calculator using HTML, CSS, and JavaScript with the functionality of add, subtract, multiply, and divide. Use the following picture for           
      reference. 
